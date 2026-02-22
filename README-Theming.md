@@ -131,7 +131,7 @@ In your XAML, you can use placeholders that will be automatically replaced by `N
 
 ## Complete Example
 
-See `G:\Scripts\PowerShell\New-IPBlocked.ps1` for a complete example of an application using the theming system.
+The **Install-NewApps** project is a real-world example of an application built with this theming system.
 
 ### Key points of the example:
 
